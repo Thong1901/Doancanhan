@@ -1,0 +1,14 @@
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\bin\Debug\Doancanhan.exe.config
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\bin\Debug\Doancanhan.exe
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\bin\Debug\Doancanhan.pdb
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.csprojAssemblyReference.cache
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.Properties.Resources.resources
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.csproj.GenerateResource.cache
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.exe
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.pdb
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.frm_DangKi.resources
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.frm_HocSinh.resources
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\obj\Debug\Doancanhan.frm_Dangnhap.resources
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\bin\Debug\data.mdf
+D:\Tài liệu học\Net\Doancanhan\Doancanhan\bin\Debug\data_log.ldf
